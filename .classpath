@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 8.5.49"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JPA 2.0-2.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.40-bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate 5.4.9-5.4.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jstl-1.2"/>
+	<classpathentry kind="output" path="out/production/MusicStore"/>
+</classpath>
